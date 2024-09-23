@@ -1,6 +1,6 @@
 # EEG-privacy
 
-Paper (IEEE BSN 2024): 
+Paper (IEEE BSN 2024): https://people.cs.umass.edu/~rkarkar/pubs/conf-bsn2024-hardware-assisted-privacy.pdf
 
 Authors: Abdul Aziz, Bhawana Chhaglani (co-primary author), Amirmohammad Radmehr, Joseph Collins, Jeremy Gummeson, Sunghoon Ivan Lee, Ravi Karkar, and Phuc Nguyen
 
@@ -26,3 +26,16 @@ This approach significantly enhances EEG data privacy while
 enabling effective cloud-based analysis, potentially facilitating
 wider adoption of secure EEG technologies in healthcare and
 research applications.
+
+## Reference
+
+Bibtex Reference:
+
+'''
+
+'''
+
+
+## Contact
+
+For more information, please contact bchhaglani@umass.edu and abdulaziz@umass.edu
